@@ -1,3 +1,5 @@
+![Dashboard Preview]([https://github.com/user-attachments/assets/xxxx-xxxx-xxxx](https://github.com/Nivas1707/UPI-Transactions-Dashboard/Dashboard.png)
+
 # UPI Transactions Dashboard
 
 An interactive Excel dashboard analyzing 500,000+ Indian UPI (Unified Payments Interface) transaction records, built to surface transaction trends, success/failure patterns, and regional payment behavior across states, banks, and merchant categories.
