@@ -1,4 +1,4 @@
-![Dashboard Preview]([Dashboard.png])
+![Dashboard Preview](Dashboard.png)
 
 # UPI Transactions Dashboard
 
