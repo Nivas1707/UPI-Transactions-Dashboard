@@ -1,4 +1,4 @@
-![Dashboard Preview]([https://github.com/Nivas1707/UPI-Transactions-Dashboard/blob/main/UPI_Transactions_Dashboard.xlsx])
+![Dashboard Preview]([https://github.com/Nivas1707/UPI-Transactions-Dashboard/Dashboard.png])
 
 # UPI Transactions Dashboard
 
